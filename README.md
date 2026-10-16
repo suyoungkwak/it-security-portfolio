@@ -10,7 +10,7 @@ forwarding. Tested successful and deliberately failed password logins,
 reviewed authentication logs, and practiced separating observations
 from security conclusions.
 
-[Read the case study](01-Support-Lab/Notes/ssh-access-investigation.md)
+[Read the case study](01-Support-Lab/Notes/ssh-access-investigation.md.txt)
 
 [View screenshots](01-Support-Lab/Screenshots)
 

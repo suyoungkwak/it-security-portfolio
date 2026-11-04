@@ -8,3 +8,6 @@ Observed an Accepted publickey log entry. Its fingerprint matched my Mac’s lab
 I initially searched for authorized_keys on my Mac and received “No such file or directory.” I used whoami, hostname, and pwd to identify the machine and account, then repeated the check in my Ubuntu SSH session.
 ## Conclusion
 Verified that my Mac successfully authenticated as labadmin using the intended SSH key. Password authentication remains enabled; this test did not configure key-only access.
+## Screenshot
+
+![SSH authentication log and authorized key fingerprint](../Screenshots/ssh-key-authentication.png)
